@@ -3,9 +3,5 @@
 	"status" : "Active",
 	"visibility" : "Public",
 	"uploader" : "Mark",
-	"description" : "This dataset classifies people described by a set of attributes as good or bad credit risks..",
-	"startDate" : "5/31/2018",
-	"endDate" :  "6/30/2018",
-	"successMeasurements" : "RMSE",
-	"useCaseType" : "Competition"
+	"description" : "This dataset classifies people described by a set of attributes as good or bad credit risks.."
 }
